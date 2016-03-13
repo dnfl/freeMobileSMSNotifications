@@ -1,3 +1,10 @@
+#freemobileSMSNotifications
+
+Script lacks portability:
+To do : make requirements.txt
+
+The use documentation below is in French.
+
 Notice d'utilisation de l'API free Mobile
 (espace abonné/gérer options/Notifications par SMS)
 
