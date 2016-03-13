@@ -1,6 +1,7 @@
 #freemobileSMSNotifications
 
 Script lacks portability:
+
 To do : make requirements.txt
 
 The use documentation below is in French.
