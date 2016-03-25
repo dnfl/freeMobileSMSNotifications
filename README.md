@@ -16,6 +16,7 @@ user :  votre login
 pass :  votre clé d'identification générée automatiquement par notre service
 msg :  le contenu du SMS encodé sous forme d'url (Percent-encoding)
 Exemple : Envoyer le message "Hello World !" sur votre mobile :
+
 https://smsapi.free-mobile.fr/sendmsg?user=XXXXXXXXXX&passXXXXXXXXXXXX&msg=Hello%20World%20!
 Vous pouvez également, si vous le préférez, envoyer les paramètres en POST.
 Dans ce cas, le contenu du message n'a pas besoin d'être encodé.
